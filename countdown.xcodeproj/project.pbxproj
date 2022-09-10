@@ -16,6 +16,7 @@
 		05F24DA628CCA6A0004ADF1D /* countdownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F24DA528CCA6A0004ADF1D /* countdownTests.swift */; };
 		05F24DB028CCA6A0004ADF1D /* countdownUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F24DAF28CCA6A0004ADF1D /* countdownUITests.swift */; };
 		05F24DB228CCA6A0004ADF1D /* countdownUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F24DB128CCA6A0004ADF1D /* countdownUITestsLaunchTests.swift */; };
+		05F24DBF28CCAB41004ADF1D /* DateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F24DBE28CCAB41004ADF1D /* DateViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		05F24DAB28CCA6A0004ADF1D /* countdownUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countdownUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05F24DAF28CCA6A0004ADF1D /* countdownUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countdownUITests.swift; sourceTree = "<group>"; };
 		05F24DB128CCA6A0004ADF1D /* countdownUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countdownUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		05F24DBE28CCAB41004ADF1D /* DateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				05F24D9728CCA6A0004ADF1D /* Assets.xcassets */,
 				05F24D9928CCA6A0004ADF1D /* LaunchScreen.storyboard */,
 				05F24D9C28CCA6A0004ADF1D /* Info.plist */,
+				05F24DBE28CCAB41004ADF1D /* DateViewController.swift */,
 			);
 			path = countdown;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05F24DBF28CCAB41004ADF1D /* DateViewController.swift in Sources */,
 				05F24D9328CCA69D004ADF1D /* ViewController.swift in Sources */,
 				05F24D8F28CCA69D004ADF1D /* AppDelegate.swift in Sources */,
 				05F24D9128CCA69D004ADF1D /* SceneDelegate.swift in Sources */,
